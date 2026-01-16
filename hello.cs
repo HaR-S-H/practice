@@ -5,5 +5,6 @@ class HelloWorld
     {
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Welcome to C# programming.");
+        Console.WriteLine("This is a simple console application.");
     }
 }
